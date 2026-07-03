@@ -1,0 +1,13 @@
+# Office temp files
+~$*
+*.tmp
+
+# Local render and cache folders
+.cache/
+tmp/
+rendered/
+
+# Large binary source files can be tracked intentionally when needed,
+# but keep accidental dumps out of the first setup.
+*.bak
+*.old
